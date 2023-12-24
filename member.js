@@ -96,5 +96,23 @@ const MEMBERS_T = {
   },
   "t_ban_thanh": {
     "name": "Bạn Thành +"
+  },
+  "t_ban_duyen": {
+    "name": "Bạn Duyên +"
+  },
+  "t_anh_thang": {
+    "name": "Anh Thắng +"
+  },
+  "t_chi_vy": {
+    "name": "Gia Đình Chị Vy"
+  },
+  "t_ban_pa": {
+    "name": "Bạn Phương Anh +"
+  },
+  "t_ban_dung": {
+    "name": "Bạn Dung +"
+  },
+  "t_chi_thuy": {
+    "name": "Chị Thuỷ +"
   }
 }
