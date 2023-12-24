@@ -80,21 +80,21 @@ const MEMBERS = {
 
 const MEMBERS_T = {
   "t_em_ly": {
-    "name": "Em Ly"
+    "name": "Em Ly +"
   },
   "t_ban_long": {
-    "name": "Bạn Long"
+    "name": "Bạn Long +"
   },
   "t_ban_quang": {
     "name": "Bạn Quang"
   },
   "t_anh_phong": {
-    "name": "Anh Phong"
+    "name": "Anh Phong +"
   },
   "t_ban_nu": {
-    "name": "Bạn Nữ"
+    "name": "Bạn Nữ +"
   },
   "t_ban_thanh": {
-    "name": "Bạn Thành"
+    "name": "Bạn Thành +"
   }
 }
