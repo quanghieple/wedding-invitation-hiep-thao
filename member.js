@@ -72,11 +72,29 @@ const MEMBERS = {
   },
   "h_ban_minh": {
     "name": "Bạn Minh +"
+  },
+  "h_ban_bill": {
+    "name": "Bạn Bill"
   }
 }
 
 const MEMBERS_T = {
-  "t_be_ly": {
-    "name": "Bé Ly"
+  "t_em_ly": {
+    "name": "Em Ly"
+  },
+  "t_ban_long": {
+    "name": "Bạn Long"
+  },
+  "t_ban_quang": {
+    "name": "Bạn Quang"
+  },
+  "t_anh_phong": {
+    "name": "Anh Phong"
+  },
+  "t_ban_nu": {
+    "name": "Bạn Nữ"
+  },
+  "t_ban_thanh": {
+    "name": "Bạn Thành"
   }
 }
