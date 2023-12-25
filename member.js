@@ -114,5 +114,44 @@ const MEMBERS_T = {
   },
   "t_chi_thuy": {
     "name": "Chị Thuỷ +"
+  },
+  "t_anh_tri": {
+    "name": "Anh Trí +"
+  },
+  "t_anh_duc": {
+    "name": "Anh Đức +"
+  },
+  "t_anh_vuong": {
+    "name": "Anh Vương (Đỏ) +"
+  },
+  "t_anh_tan": {
+    "name": "Anh Tấn +"
+  },
+  "t_ban_thanh": {
+    "name": "Bạn Thanh +"
+  },
+  "t_em_nghi": {
+    "name": "Gia Đình Em Nghi"
+  },
+  "t_em_nhi": {
+    "name": "Em Nhi +"
+  },
+  "t_ban_thu": {
+    "name": "Gia Đình Bạn Thư"
+  },
+  "t_ban_duyen": {
+    "name": "Gia Đình Bạn Duyên"
+  },
+  "t_ban_hang": {
+    "name": "Gia Đình Bạn Hằng"
+  },
+  "t_ban_trung": {
+    "name": "Bạn Trung +"
+  },
+  "t_anh_hung": {
+    "name": "Anh Hưng +"
+  },
+  "t_chi_uyen": {
+    "name": "Chị Uyên +"
   }
 }
