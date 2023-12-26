@@ -153,5 +153,17 @@ const MEMBERS_T = {
   },
   "t_chi_uyen": {
     "name": "Chị Uyên +"
+  },
+  "t_em_my_ly": {
+    "name": "Em Mỹ Ly +"
+  },
+  "t_ban_vy": {
+    "name": "Bạn Vy +"
+  },
+  "t_em_hung": {
+    "name": "Em Hùng +"
+  },
+  "t_anh_ly": {
+    "name": "Anh Ly + Bạn Phương Anh"
   }
 }
