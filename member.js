@@ -171,5 +171,8 @@ const MEMBERS_T = {
   },
   "t_ban_thao": {
     "name": "Bạn Thảo + Anh Thạnh"
+  },
+  "t_ban_loc": {
+    "name": "Bạn Lộc (Chệt) +"
   }
 }
