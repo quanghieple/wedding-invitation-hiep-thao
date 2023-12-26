@@ -168,5 +168,8 @@ const MEMBERS_T = {
   },
   "t_anh_bang": {
     "name": "Gia Đình Anh Bằng (Bờm)"
+  },
+  "t_ban_thao": {
+    "name": "Bạn Thảo + Anh Thạnh"
   }
 }
