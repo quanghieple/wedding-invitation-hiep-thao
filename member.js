@@ -174,5 +174,11 @@ const MEMBERS_T = {
   },
   "t_ban_loc": {
     "name": "Bạn Lộc (Chệt) +"
+  },
+  "t_chi_dung": {
+    "name": "Gia Đình Chị Dung"
+  },
+  "t_chi_sang": {
+    "name": "Gia Đình Chị Sang"
   }
 }
