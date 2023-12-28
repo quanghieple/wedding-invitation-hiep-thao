@@ -180,5 +180,14 @@ const MEMBERS_T = {
   },
   "t_chi_sang": {
     "name": "Gia Đình Chị Sang"
+  },
+  "t_ban_khuong_duy": {
+    "name": "Bạn Khương Duy +"
+  },
+  "t_anh_hoang": {
+    "name": "Anh Hoàng +"
+  },
+  "t_em_thuong": {
+    "name": "Em Thương +"
   }
 }
