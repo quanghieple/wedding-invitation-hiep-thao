@@ -187,6 +187,9 @@ const MEMBERS_T = {
   "t_anh_hoang": {
     "name": "Anh Hoàng +"
   },
+  "t_em_thuong": {
+    "name": "Em Thương +"
+  },
   "t_ban_duy": {
     "name": "Bạn Duy +"
   }
