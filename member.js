@@ -192,5 +192,11 @@ const MEMBERS_T = {
   },
   "t_ban_duy": {
     "name": "Bạn Duy +"
+  },
+  "t_ban_doanh": {
+    "name": "Bạn Doanh +"
+  },
+  "t_ban_dong": {
+    "name": "Bạn Đông +"
   }
 }
